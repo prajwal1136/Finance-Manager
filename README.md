@@ -78,10 +78,4 @@ mvn spring-boot:run
    - Add and delete tasks.
    - Chat with **AI-powered Finance Chatbot**.
 
-## License
 
-This project is open-source and available under the **MIT License**.
-
-## Contributing
-
-Pull requests are welcome! Please open an issue for major changes before submitting PRs.
