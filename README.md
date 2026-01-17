@@ -27,8 +27,8 @@ A **Spring Boot**-based Finance Manager that utilizes **AI-driven categorization
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Kaloyanov5/finance-manager.git
-cd finance-manager
+git clone https://github.com/prajwal1136/Finance-Manager.git
+cd Finance-Manager
 ```
 
 ### 2️⃣ **Database Setup**
